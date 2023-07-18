@@ -2,11 +2,11 @@
 - website: https://yuki-o-portfolio.vercel.app/
 - LinkedIn: https://www.linkedin.com/feed/?trk=seo-authwall-base_google-one-tap-submit
 
-- 🌱 I’m currently learning React, Typescrypt, Next.js, Node.js, Figma, UI...
+- 🌱 I’m currently learning React, Typescrypt, Next.js, Node.js, Figma, UI/UX...
 
 ## Yuki as a Hobbyist ⭐️
 - 🧑‍🎓 Learning English
-- 🏛️　Going to museums
+- 🏛️ Going to museums
 - 📷 Taking photos
   -> 📸 instagram: https://www.instagram.com/y__photo_art/   
 
